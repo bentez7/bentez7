@@ -16,6 +16,7 @@ Software Engineering (Honours) graduate from Monash University Malaysia. I build
 | Repository | What it is | Stack |
 | --- | --- | --- |
 | [ecoroute-mobile](https://github.com/bentez7/ecoroute-mobile) | Mobile app for EcoRoute: route planning, navigation and driving coaching | React Native, Expo, TypeScript, Mapbox |
+| [ecoroute-backend](https://github.com/bentez7/ecoroute-backend) | REST API for EcoRoute: auth, trips and post-trip CO₂ analysis | Node.js, Express, Supabase, Jest |
 | [portfolio](https://github.com/bentez7/portfolio) | My portfolio site | HTML, CSS, JavaScript |
 | [FIT3179](https://github.com/bentez7/FIT3179) | Interactive visualisation of child malnutrition in Asia | Vega-Lite, HTML, CSS |
 
